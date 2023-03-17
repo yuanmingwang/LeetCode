@@ -15,6 +15,7 @@ LeetCode
 |343|[Integer Break](https://leetcode.com/problems/integer-break/description/)| [C++](./algorithms/cpp/343.cpp)|Medium|Dynamic Programming
 |368|[Largest Divisible Subset](https://leetcode.com/problems/largest-divisible-subset/description/)| [C++](./algorithms/cpp/368.cpp)|Medium|Dynamic Programming
 |392|[Is Subsequence](https://leetcode.com/problems/is-subsequence/description/)| [C++](./algorithms/cpp/392.cpp)|Easy|Two Pointers
+|486|[Predict the Winner](https://leetcode.com/problems/predict-the-winner/description/)| [C++](./algorithms/cpp/486.cpp)|Medium|Dynamic Programming
 |792|[Number of Matching Subsequences](https://leetcode.com/problems/number-of-matching-subsequences/description/)| [C++](./algorithms/cpp/792.cpp)|Medium|Binary search & Hash Table & Two pointers
 
 ||[]()| [C++](./algorithms/cpp/.cpp)|Easy|
