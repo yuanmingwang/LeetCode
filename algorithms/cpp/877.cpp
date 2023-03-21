@@ -2,6 +2,7 @@ class Solution {
 public:
     /** 
         dp, iteration, btm up
+        similar to 486. Predict the Winner https://leetcode.com/problems/predict-the-winner/description/
         
         def: 
             dp[i][j][0] = the max score you can get with nums[i .. j] if you pick first
@@ -39,19 +40,19 @@ public:
         space O(n) if you use 1d array
     */
 
-    //// space O(n)
-    bool PredictTheWinner(vector<int>& nums) {
-        int size = nums.size();
-        vector<vector<int>> dp(size, vector<int>(2, 0));
+    //// O(n)
+    bool stoneGame(vector<int>& piles) {
+        int size = piles.size();
+        vector<vector<int>> dp(size, vector<int>(2));
         //// dp
         for(int i = size - 1; i >= 0; --i)
         {
             //// bc
-            dp[i][0] = nums[i];
+            dp[i][0] = piles[i];
             for(int j = i + 1; j < size; ++j)
             {
-                int left = nums[i] + dp[j][1];
-                int right = nums[j] + dp[j - 1][1];
+                int left = piles[i] + dp[j][1];
+                int right = piles[j] + dp[j - 1][1];
                 //// pick left
                 if(left > right)
                 {
@@ -69,23 +70,23 @@ public:
         return dp[size - 1][0] - dp[size - 1][1] >= 0;
     }
 
-    //// space O(n^2)
-    bool PredictTheWinner(vector<int>& nums) {
-        int size = nums.size();
-        vector<vector<vector<int>>> dp(size, vector<vector<int>>(size, vector<int>(2, 0)));
+    //// O(n^2)
+    bool stoneGame(vector<int>& piles) {
+        int size = piles.size();
+        vector<vector<vector<int>>> dp(size, vector<vector<int>>(size, vector<int>(2)));
         //// bc
         for(int i = 0; i < size; ++i)
-            dp[i][i][0] = nums[i];
+            dp[i][i][0] = piles[i];
         //// dp
         // we need dp[i + 1][j] and dp[i][j - 1] to find dp[i][j], so we need to iterate from btm to top, left to right
         // start from i = size - 1 because dp[size - 1][size - 1] is a bc
-        for(int i = size - 2; i >= 0; --i)  
+        for(int i = size - 1; i >= 0; --i)
         {
             // start from j = i + 1 because dp[i][i] is a bc, so we start from dp[i][i + 1]
             for(int j = i + 1; j < size; ++j)
             {
-                int left = nums[i] + dp[i + 1][j][1];
-                int right = nums[j] + dp[i][j - 1][1];
+                int left = piles[i] + dp[i + 1][j][1];
+                int right = piles[j] + dp[i][j - 1][1];
                 //// pick left
                 if(left > right)
                 {
@@ -100,7 +101,6 @@ public:
                 }
             }
         }
-
         return dp[0][size - 1][0] - dp[0][size - 1][1] >= 0;
     }
 };

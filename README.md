@@ -17,6 +17,7 @@ LeetCode
 |392|[Is Subsequence](https://leetcode.com/problems/is-subsequence/description/)| [C++](./algorithms/cpp/392.cpp)|Easy|Two Pointers
 |486|[Predict the Winner](https://leetcode.com/problems/predict-the-winner/description/)| [C++](./algorithms/cpp/486.cpp)|Medium|Dynamic Programming
 |792|[Number of Matching Subsequences](https://leetcode.com/problems/number-of-matching-subsequences/description/)| [C++](./algorithms/cpp/792.cpp)|Medium|Binary search & Hash Table & Two pointers
+|877|[Stone Game](https://leetcode.com/problems/stone-game/description/)| [C++](./algorithms/cpp/877.cpp)|Medium|Dynamic Programming
 
 ||[]()| [C++](./algorithms/cpp/.cpp)|Easy|
 ||[]()| [C++](./algorithms/cpp/.cpp)|Medium|
