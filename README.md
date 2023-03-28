@@ -5,6 +5,7 @@ LeetCode
 |---| ----- | -------- | ---------- | -------------- |
 |46|[Permutations](https://leetcode.com/problems/permutations/description/)| [C++](./algorithms/cpp/46.cpp)|Medium|Backtracking
 |51|[N-Queens](https://leetcode.com/problems/n-queens/)| [C++](./algorithms/cpp/51.cpp)|Hard|Backtracking
+|78|[Subsets](https://leetcode.com/problems/subsets/description/)| [C++](./algorithms/cpp/78.cpp)|Medium|Backtracking
 |198|[House Robber](https://leetcode.com/problems/house-robber/description/)| [C++](./algorithms/cpp/198.cpp)|Medium|Dynamic Programming
 |213|[House Robber II](https://leetcode.com/problems/house-robber-ii/description/)| [C++](./algorithms/cpp/213.cpp)|Medium|Dynamic Programming
 |221|[Maximal Square](https://leetcode.com/problems/maximal-square/description/)| [C++](./algorithms/cpp/221.cpp)|Medium|Dynamic Programming
