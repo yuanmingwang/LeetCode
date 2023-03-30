@@ -3,9 +3,13 @@ LeetCode
 
 | # | Title | Solution | Difficulty | Related Topics |
 |---| ----- | -------- | ---------- | -------------- |
+|40|[Combination Sum II](https://leetcode.com/problems/combination-sum-ii/description/)| [C++](./algorithms/cpp/40.cpp)|Medium|Backtracking
 |46|[Permutations](https://leetcode.com/problems/permutations/description/)| [C++](./algorithms/cpp/46.cpp)|Medium|Backtracking
+|47|[Permutations II](https://leetcode.com/problems/permutations-ii/description/)| [C++](./algorithms/cpp/47.cpp)|Medium|Backtracking
 |51|[N-Queens](https://leetcode.com/problems/n-queens/)| [C++](./algorithms/cpp/51.cpp)|Hard|Backtracking
+|77|[Combinations](https://leetcode.com/problems/combinations/description/)| [C++](./algorithms/cpp/77.cpp)|Medium|Backtracking
 |78|[Subsets](https://leetcode.com/problems/subsets/description/)| [C++](./algorithms/cpp/78.cpp)|Medium|Backtracking
+|90|[Subsets II](https://leetcode.com/problems/subsets-ii/description/)| [C++](./algorithms/cpp/90.cpp)|Medium|Backtracking
 |198|[House Robber](https://leetcode.com/problems/house-robber/description/)| [C++](./algorithms/cpp/198.cpp)|Medium|Dynamic Programming
 |213|[House Robber II](https://leetcode.com/problems/house-robber-ii/description/)| [C++](./algorithms/cpp/213.cpp)|Medium|Dynamic Programming
 |221|[Maximal Square](https://leetcode.com/problems/maximal-square/description/)| [C++](./algorithms/cpp/221.cpp)|Medium|Dynamic Programming
