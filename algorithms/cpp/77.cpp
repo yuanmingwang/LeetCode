@@ -2,6 +2,8 @@ class Solution {
 public:
     /** 
         backtracking
+        Combinations (Subset) (no repetition, no multiple-choice)
+
         combination is a subproblem of subset. for subset of number in range [1, n], combination(n, k) is all elements of subset at level k
         for eaxmple, n = 3, k = 2, combination(3, 2) = [ [1,2],[1,3],[2,3] ], which is all elements at level 2
 

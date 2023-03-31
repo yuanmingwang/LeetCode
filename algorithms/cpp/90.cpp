@@ -2,6 +2,8 @@ class Solution {
 public:
     /** 
         backtracking
+        Subset (Combinations) (repetition, no multiple-choice)
+
         time O(2^n)
         space O(N)
     */

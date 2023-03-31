@@ -2,6 +2,8 @@ class Solution {
 public:
     /** 
         backtracking
+        Permutations (repetition, no multiple-choice)
+
         we sort the nums first to fix the position of each element
         in the backtrack we prune the leaf if nums[i] == nums[i - 1] and if the previous same element has not been used
         for example, we have [1, 2, 2']. we want to make sure 2 is in front of 2' in all permutation, so we just prune the leaf that 2' is used before 2

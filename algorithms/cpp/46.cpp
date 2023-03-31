@@ -2,6 +2,8 @@ class Solution {
 public:
     /** 
         backtracking
+        Permutations (no repetition, no multiple-choice)
+
         time O(N!)
         space O(N)
     */

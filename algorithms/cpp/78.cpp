@@ -2,6 +2,8 @@ class Solution {
 public:
     /** 
         backtracking
+        Subset (Combinations) (no repetition, no multiple-choice)
+
         time O(2^N) because there are 2^n subset for a given set, and our code just go throught every node once
         space O(N)
     */
