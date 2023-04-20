@@ -6,7 +6,10 @@ LeetCode
 |1|[Two Sum](https://leetcode.com/problems/two-sum/description/)| [C++](./algorithms/cpp/1.cpp)|Easy|Hash Table
 |9|[Palindrome Number](https://leetcode.com/problems/palindrome-number/description/)| [C++](./algorithms/cpp/9.cpp)|Easy|Two Pointers
 |11|[Container With Most Water](https://leetcode.com/problems/container-with-most-water/description/)| [C++](./algorithms/cpp/11.cpp)|Medium|Two Pointers, Greedy
+|15|[3Sum](https://leetcode.com/problems/3sum/)| [C++](./algorithms/cpp/15.cpp)|Medium|Two Pointers
+|16|[3Sum Closest](https://leetcode.com/problems/3sum-closest/description/)| [C++](./algorithms/cpp/16.cpp)|Medium|Two Pointers
 |17|[Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/description/)| [C++](./algorithms/cpp/17.cpp)|Medium|Backtracking
+|18|[4Sum](https://leetcode.com/problems/4sum/description/)| [C++](./algorithms/cpp/18.cpp)|Medium|Two Pointers
 |26|[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/)| [C++](./algorithms/cpp/26.cpp)|Easy|Two Pointers
 |31|[Next Permutation](https://leetcode.com/problems/next-permutation/description/)| [C++](./algorithms/cpp/31.cpp)|Medium|Two Pointers
 |39|[Combination Sum](https://leetcode.com/problems/combination-sum/description/)| [C++](./algorithms/cpp/39.cpp)|Medium|Backtracking
