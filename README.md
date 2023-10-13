@@ -24,6 +24,8 @@ LeetCode
 |80|[Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/description/)| [C++](./algorithms/cpp/80.cpp)|Medium|Two Pointers
 |90|[Subsets II](https://leetcode.com/problems/subsets-ii/description/)| [C++](./algorithms/cpp/90.cpp)|Medium|Backtracking
 |93|[Restore IP Addresses](https://leetcode.com/problems/restore-ip-addresses/description/)| [C++](./algorithms/cpp/93.cpp)|Medium|Backtracking
+|94|[Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/description/)| [C++](./algorithms/cpp/94.cpp)|Easy|Binary Tree
+|104|[Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/description/)| [C++](./algorithms/cpp/104.cpp)|Easy|Binary Tree
 |131|[Palindrome Partitioning](https://leetcode.com/problems/palindrome-partitioning/description/)| [C++](./algorithms/cpp/131.cpp)|Medium|Backtracking, String
 |167|[Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/description/)| [C++](./algorithms/cpp/167.cpp)|Medium|Two Pointers
 |198|[House Robber](https://leetcode.com/problems/house-robber/description/)| [C++](./algorithms/cpp/198.cpp)|Medium|Dynamic Programming
@@ -41,6 +43,7 @@ LeetCode
 |392|[Is Subsequence](https://leetcode.com/problems/is-subsequence/description/)| [C++](./algorithms/cpp/392.cpp)|Easy|Two Pointers
 |486|[Predict the Winner](https://leetcode.com/problems/predict-the-winner/description/)| [C++](./algorithms/cpp/486.cpp)|Medium|Dynamic Programming
 |491|[Non-decreasing Subsequences](https://leetcode.com/problems/non-decreasing-subsequences/description/)| [C++](./algorithms/cpp/491.cpp)|Medium|Backtracking
+|543|[Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/)| [C++](./algorithms/cpp/543.cpp)|Easy|Binary Tree
 |698|[Partition to K Equal Sum Subsets](https://leetcode.com/problems/partition-to-k-equal-sum-subsets/)| [C++](./algorithms/cpp/698.cpp)|Medium|Backtracking, Dynamic Programming, Bit Manipulation, Bitmask
 |785|[Is Graph Bipartite?](https://leetcode.com/problems/is-graph-bipartite/description/)| [C++](./algorithms/cpp/785.cpp)|Medium|Depth-First Search, Graph
 |787|[Cheapest Flights Within K Stops](https://leetcode.com/problems/cheapest-flights-within-k-stops/description/)| [C++](./algorithms/cpp/787.cpp)|Medium|Dynamic Programming, Graph(Dijkstra)
