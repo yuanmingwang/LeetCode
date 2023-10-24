@@ -29,6 +29,7 @@ LeetCode
 |93|[Restore IP Addresses](https://leetcode.com/problems/restore-ip-addresses/description/)| [C++](./algorithms/cpp/93.cpp)|Medium|Backtracking
 |94|[Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/description/)| [C++](./algorithms/cpp/94.cpp)|Easy|Binary Tree
 |104|[Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/description/)| [C++](./algorithms/cpp/104.cpp)|Easy|Binary Tree
+|111|[Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/)| [C++](./algorithms/cpp/111.cpp)|Easy|Binary Tree, Breadth-First Search, Depth-First Search
 |131|[Palindrome Partitioning](https://leetcode.com/problems/palindrome-partitioning/description/)| [C++](./algorithms/cpp/131.cpp)|Medium|Backtracking, String
 |167|[Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/description/)| [C++](./algorithms/cpp/167.cpp)|Medium|Two Pointers
 |198|[House Robber](https://leetcode.com/problems/house-robber/description/)| [C++](./algorithms/cpp/198.cpp)|Medium|Dynamic Programming
