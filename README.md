@@ -4,6 +4,8 @@ LeetCode
 | # | Title | Solution | Difficulty | Related Topics |
 |---| ----- | -------- | ---------- | -------------- |
 |1|[Two Sum](https://leetcode.com/problems/two-sum/description/)| [C++](./algorithms/cpp/1.cpp)|Easy|Hash Table
+|2|[Add Two Numbers](https://leetcode.com/problems/add-two-numbers/description/)| [C++](./algorithms/cpp/2.cpp)|Medium|Linked List, Two Pointers
+|3|[Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/description/)| [C++](./algorithms/cpp/3.cpp)|Medium|Hash Table, String, Sliding Window
 |9|[Palindrome Number](https://leetcode.com/problems/palindrome-number/description/)| [C++](./algorithms/cpp/9.cpp)|Easy|Two Pointers
 |11|[Container With Most Water](https://leetcode.com/problems/container-with-most-water/description/)| [C++](./algorithms/cpp/11.cpp)|Medium|Two Pointers, Greedy
 |15|[3Sum](https://leetcode.com/problems/3sum/)| [C++](./algorithms/cpp/15.cpp)|Medium|Two Pointers
