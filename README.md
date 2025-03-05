@@ -13,6 +13,7 @@ LeetCode
 |16|[3Sum Closest](https://leetcode.com/problems/3sum-closest/description/)| [C++](./algorithms/cpp/16.cpp)|Medium|Two Pointers
 |17|[Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/description/)| [C++](./algorithms/cpp/17.cpp)|Medium|Backtracking
 |18|[4Sum](https://leetcode.com/problems/4sum/description/)| [C++](./algorithms/cpp/18.cpp)|Medium|Two Pointers
+|20|[Valid Parentheses](https://leetcode.com/problems/valid-parentheses/description/)| [C++](./algorithms/cpp/20.cpp)|Easy|String, Stack
 |21|[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)| [C++](./algorithms/cpp/21.cpp)|Easy|Linked List, Two Pointers
 |23|[Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/)| [C++](./algorithms/cpp/23.cpp)|Hard|Linked List, Heap (Priority Queue)
 |26|[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/)| [C++](./algorithms/cpp/26.cpp)|Easy|Two Pointers
@@ -62,6 +63,7 @@ LeetCode
 |797|[All Paths From Source to Target](https://leetcode.com/problems/all-paths-from-source-to-target/)| [C++](./algorithms/cpp/797.cpp)|Medium|Depth-First Search, Graph
 |877|[Stone Game](https://leetcode.com/problems/stone-game/description/)| [C++](./algorithms/cpp/877.cpp)|Medium|Dynamic Programming
 |886|[Possible Bipartition](https://leetcode.com/problems/possible-bipartition/description/)| [C++](./algorithms/cpp/886.cpp)|Medium|Depth-First Search, Graph
+|2073|[Time Needed to Buy Tickets](https://leetcode.com/problems/time-needed-to-buy-tickets/description/)| [C++](./algorithms/cpp/2073.cpp)|Easy|Array, Simulation
 
 <!--
 ||[]()| [C++](./algorithms/cpp/.cpp)|Easy|
