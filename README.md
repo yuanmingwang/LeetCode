@@ -13,6 +13,7 @@ LeetCode
 |16|[3Sum Closest](https://leetcode.com/problems/3sum-closest/description/)| [C++](./algorithms/cpp/16.cpp)|Medium|Two Pointers
 |17|[Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/description/)| [C++](./algorithms/cpp/17.cpp)|Medium|Backtracking
 |18|[4Sum](https://leetcode.com/problems/4sum/description/)| [C++](./algorithms/cpp/18.cpp)|Medium|Two Pointers
+|19|[Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/description/)| [C++](./algorithms/cpp/19.cpp)|Medium|Linked List, Two Pointers
 |20|[Valid Parentheses](https://leetcode.com/problems/valid-parentheses/description/)| [C++](./algorithms/cpp/20.cpp)|Easy|String, Stack
 |21|[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)| [C++](./algorithms/cpp/21.cpp)|Easy|Linked List, Two Pointers
 |23|[Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/)| [C++](./algorithms/cpp/23.cpp)|Hard|Linked List, Heap (Priority Queue)
@@ -36,6 +37,8 @@ LeetCode
 |111|[Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/)| [C++](./algorithms/cpp/111.cpp)|Easy|Binary Tree, Breadth-First Search, Depth-First Search
 |131|[Palindrome Partitioning](https://leetcode.com/problems/palindrome-partitioning/description/)| [C++](./algorithms/cpp/131.cpp)|Medium|Backtracking, String
 |136|[Single Number](https://leetcode.com/problems/single-number/description/)| [C++](./algorithms/cpp/136.cpp)|Easy|Array, Hash Table, Bit Manipulation
+|141|[Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/description/)| [C++](./algorithms/cpp/141.cpp)|Easy|Linked List, Two Pointers
+|142|[Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/description/)| [C++](./algorithms/cpp/142.cpp)|Medium|Linked List, Two Pointers
 |167|[Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/description/)| [C++](./algorithms/cpp/167.cpp)|Medium|Two Pointers
 |198|[House Robber](https://leetcode.com/problems/house-robber/description/)| [C++](./algorithms/cpp/198.cpp)|Medium|Dynamic Programming
 |213|[House Robber II](https://leetcode.com/problems/house-robber-ii/description/)| [C++](./algorithms/cpp/213.cpp)|Medium|Dynamic Programming
@@ -61,6 +64,7 @@ LeetCode
 |787|[Cheapest Flights Within K Stops](https://leetcode.com/problems/cheapest-flights-within-k-stops/description/)| [C++](./algorithms/cpp/787.cpp)|Medium|Dynamic Programming, Graph(Dijkstra)
 |792|[Number of Matching Subsequences](https://leetcode.com/problems/number-of-matching-subsequences/description/)| [C++](./algorithms/cpp/792.cpp)|Medium|Binary Search, Hash Table, Two Pointers
 |797|[All Paths From Source to Target](https://leetcode.com/problems/all-paths-from-source-to-target/)| [C++](./algorithms/cpp/797.cpp)|Medium|Depth-First Search, Graph
+|876|[Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/description/)| [C++](./algorithms/cpp/876.cpp)|Easy|Linked List, Two Pointers
 |877|[Stone Game](https://leetcode.com/problems/stone-game/description/)| [C++](./algorithms/cpp/877.cpp)|Medium|Dynamic Programming
 |886|[Possible Bipartition](https://leetcode.com/problems/possible-bipartition/description/)| [C++](./algorithms/cpp/886.cpp)|Medium|Depth-First Search, Graph
 |2073|[Time Needed to Buy Tickets](https://leetcode.com/problems/time-needed-to-buy-tickets/description/)| [C++](./algorithms/cpp/2073.cpp)|Easy|Array, Simulation
