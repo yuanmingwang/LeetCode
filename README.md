@@ -17,7 +17,8 @@ LeetCode
 |20|[Valid Parentheses](https://leetcode.com/problems/valid-parentheses/description/)| [C++](./algorithms/cpp/20.cpp)|Easy|String, Stack
 |21|[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)| [C++](./algorithms/cpp/21.cpp)|Easy|Linked List, Two Pointers
 |23|[Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/)| [C++](./algorithms/cpp/23.cpp)|Hard|Linked List, Heap (Priority Queue)
-|26|[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/)| [C++](./algorithms/cpp/26.cpp)|Easy|Two Pointers
+|26|[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/)| [C++](./algorithms/cpp/26.cpp)|Easy|Array, Two Pointers
+|27|[Remove Element](https://leetcode.com/problems/remove-element/description/)| [C++](./algorithms/cpp/27.cpp)|Easy|Array, Two Pointers
 |31|[Next Permutation](https://leetcode.com/problems/next-permutation/description/)| [C++](./algorithms/cpp/31.cpp)|Medium|Two Pointers
 |39|[Combination Sum](https://leetcode.com/problems/combination-sum/description/)| [C++](./algorithms/cpp/39.cpp)|Medium|Backtracking
 |40|[Combination Sum II](https://leetcode.com/problems/combination-sum-ii/description/)| [C++](./algorithms/cpp/40.cpp)|Medium|Backtracking
@@ -29,6 +30,7 @@ LeetCode
 |78|[Subsets](https://leetcode.com/problems/subsets/description/)| [C++](./algorithms/cpp/78.cpp)|Medium|Backtracking
 |79|[Word Search](https://leetcode.com/problems/word-search/description/)| [C++](./algorithms/cpp/79.cpp)|Medium|Depth-First Search, Backtracking
 |80|[Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/description/)| [C++](./algorithms/cpp/80.cpp)|Medium|Two Pointers
+|83|[Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/description/)| [C++](./algorithms/cpp/83.cpp)|Easy|Linked List, Two Pointers
 |86|[Partition List](https://leetcode.com/problems/partition-list/)| [C++](./algorithms/cpp/86.cpp)|Medium|Linked List, Two Pointers
 |90|[Subsets II](https://leetcode.com/problems/subsets-ii/description/)| [C++](./algorithms/cpp/90.cpp)|Medium|Backtracking
 |93|[Restore IP Addresses](https://leetcode.com/problems/restore-ip-addresses/description/)| [C++](./algorithms/cpp/93.cpp)|Medium|Backtracking
@@ -39,6 +41,7 @@ LeetCode
 |136|[Single Number](https://leetcode.com/problems/single-number/description/)| [C++](./algorithms/cpp/136.cpp)|Easy|Array, Hash Table, Bit Manipulation
 |141|[Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/description/)| [C++](./algorithms/cpp/141.cpp)|Easy|Linked List, Two Pointers
 |142|[Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/description/)| [C++](./algorithms/cpp/142.cpp)|Medium|Linked List, Two Pointers
+|160|[Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/description/)| [C++](./algorithms/cpp/160.cpp)|Easy|Linked List, Two Pointers
 |167|[Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/description/)| [C++](./algorithms/cpp/167.cpp)|Medium|Two Pointers
 |198|[House Robber](https://leetcode.com/problems/house-robber/description/)| [C++](./algorithms/cpp/198.cpp)|Medium|Dynamic Programming
 |213|[House Robber II](https://leetcode.com/problems/house-robber-ii/description/)| [C++](./algorithms/cpp/213.cpp)|Medium|Dynamic Programming
@@ -48,11 +51,13 @@ LeetCode
 |263|[Ugly Number](https://leetcode.com/problems/ugly-number/)| [C++](./algorithms/cpp/263.cpp)|Easy|Math
 |264|[Ugly Number II](https://leetcode.com/problems/ugly-number-ii/)| [C++](./algorithms/cpp/264.cpp)|Medium|Dynamic Programming, Priority Queue
 |279|[Perfect Squares](https://leetcode.com/problems/perfect-squares/description/)| [C++](./algorithms/cpp/279.cpp)|Medium|Dynamic Programming
+|283|[Move Zeroes](https://leetcode.com/problems/move-zeroes/description/)| [C++](./algorithms/cpp/283.cpp)|Easy|Array, Two Pointers
 |312|[Burst Balloons](https://leetcode.com/problems/burst-balloons/description/)| [C++](./algorithms/cpp/312.cpp)|Hard|Dynamic Programming
 |313|[Super Ugly Number](https://leetcode.com/problems/ugly-number-ii/description/)| [C++](./algorithms/cpp/313.cpp)|Medium|Dynamic Programming, Priority Queue
 |322|[Coin Change](https://leetcode.com/problems/coin-change/)| [C++](./algorithms/cpp/322.cpp)|Medium|Dynamic Programming
 |337|[House Robber III](https://leetcode.com/problems/house-robber-iii/description/)| [C++](./algorithms/cpp/337.cpp)|Medium|Dynamic Programming, Depth-First Search Binary Tree
 |343|[Integer Break](https://leetcode.com/problems/integer-break/description/)| [C++](./algorithms/cpp/343.cpp)|Medium|Dynamic Programming
+|344|[Reverse String](https://leetcode.com/problems/reverse-string/description/)| [C++](./algorithms/cpp/344.cpp)|Easy|Two Pointers, String
 |368|[Largest Divisible Subset](https://leetcode.com/problems/largest-divisible-subset/description/)| [C++](./algorithms/cpp/368.cpp)|Medium|Dynamic Programming
 |392|[Is Subsequence](https://leetcode.com/problems/is-subsequence/description/)| [C++](./algorithms/cpp/392.cpp)|Easy|Two Pointers
 |486|[Predict the Winner](https://leetcode.com/problems/predict-the-winner/description/)| [C++](./algorithms/cpp/486.cpp)|Medium|Dynamic Programming
@@ -68,6 +73,7 @@ LeetCode
 |877|[Stone Game](https://leetcode.com/problems/stone-game/description/)| [C++](./algorithms/cpp/877.cpp)|Medium|Dynamic Programming
 |886|[Possible Bipartition](https://leetcode.com/problems/possible-bipartition/description/)| [C++](./algorithms/cpp/886.cpp)|Medium|Depth-First Search, Graph
 |2073|[Time Needed to Buy Tickets](https://leetcode.com/problems/time-needed-to-buy-tickets/description/)| [C++](./algorithms/cpp/2073.cpp)|Easy|Array, Simulation
+|2460|[Apply Operations to an Array](https://leetcode.com/problems/apply-operations-to-an-array/description/)| [C++](./algorithms/cpp/2460.cpp)|Easy|Array, Two Pointers, Simulation
 
 <!--
 ||[]()| [C++](./algorithms/cpp/.cpp)|Easy|
