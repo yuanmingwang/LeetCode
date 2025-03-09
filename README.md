@@ -25,8 +25,9 @@ LeetCode
 |46|[Permutations](https://leetcode.com/problems/permutations/description/)| [C++](./algorithms/cpp/46.cpp)|Medium|Backtracking
 |47|[Permutations II](https://leetcode.com/problems/permutations-ii/description/)| [C++](./algorithms/cpp/47.cpp)|Medium|Backtracking
 |51|[N-Queens](https://leetcode.com/problems/n-queens/)| [C++](./algorithms/cpp/51.cpp)|Hard|Backtracking
-|77|[Combinations](https://leetcode.com/problems/combinations/description/)| [C++](./algorithms/cpp/77.cpp)|Medium|Backtracking
 |75|[Sort Colors](https://leetcode.com/problems/sort-colors/description/)| [C++](./algorithms/cpp/75.cpp)|Medium|Two Pointers
+|76|[Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/description/)| [C++](./algorithms/cpp/76.cpp)|Hard|Hash Table, String, Sliding Window
+|77|[Combinations](https://leetcode.com/problems/combinations/description/)| [C++](./algorithms/cpp/77.cpp)|Medium|Backtracking
 |78|[Subsets](https://leetcode.com/problems/subsets/description/)| [C++](./algorithms/cpp/78.cpp)|Medium|Backtracking
 |79|[Word Search](https://leetcode.com/problems/word-search/description/)| [C++](./algorithms/cpp/79.cpp)|Medium|Depth-First Search, Backtracking
 |80|[Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/description/)| [C++](./algorithms/cpp/80.cpp)|Medium|Two Pointers
@@ -44,9 +45,11 @@ LeetCode
 |160|[Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/description/)| [C++](./algorithms/cpp/160.cpp)|Easy|Linked List, Two Pointers
 |167|[Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/description/)| [C++](./algorithms/cpp/167.cpp)|Medium|Two Pointers
 |198|[House Robber](https://leetcode.com/problems/house-robber/description/)| [C++](./algorithms/cpp/198.cpp)|Medium|Dynamic Programming
+|209|[Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/description/)| [C++](./algorithms/cpp/209.cpp)|Medium|Array, Sliding Window
 |213|[House Robber II](https://leetcode.com/problems/house-robber-ii/description/)| [C++](./algorithms/cpp/213.cpp)|Medium|Dynamic Programming
 |216|[Combination Sum III](https://leetcode.com/problems/combination-sum-iii/description/)| [C++](./algorithms/cpp/216.cpp)|Medium|Backtracking
 |217|[Contains Duplicate](https://leetcode.com/problems/contains-duplicate/description/)| [C++](./algorithms/cpp/217.cpp)|Easy|Hash Table, Array
+|219|[Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/description/)| [C++](./algorithms/cpp/219.cpp)|Easy|Array, Hash Table, Sliding Window
 |221|[Maximal Square](https://leetcode.com/problems/maximal-square/description/)| [C++](./algorithms/cpp/221.cpp)|Medium|Dynamic Programming
 |263|[Ugly Number](https://leetcode.com/problems/ugly-number/)| [C++](./algorithms/cpp/263.cpp)|Easy|Math
 |264|[Ugly Number II](https://leetcode.com/problems/ugly-number-ii/)| [C++](./algorithms/cpp/264.cpp)|Medium|Dynamic Programming, Priority Queue
@@ -60,10 +63,12 @@ LeetCode
 |344|[Reverse String](https://leetcode.com/problems/reverse-string/description/)| [C++](./algorithms/cpp/344.cpp)|Easy|Two Pointers, String
 |368|[Largest Divisible Subset](https://leetcode.com/problems/largest-divisible-subset/description/)| [C++](./algorithms/cpp/368.cpp)|Medium|Dynamic Programming
 |392|[Is Subsequence](https://leetcode.com/problems/is-subsequence/description/)| [C++](./algorithms/cpp/392.cpp)|Easy|Two Pointers
+|438|[Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string/description/)| [C++](./algorithms/cpp/438.cpp)|Medium|Hash Table, String, Sliding Window
 |486|[Predict the Winner](https://leetcode.com/problems/predict-the-winner/description/)| [C++](./algorithms/cpp/486.cpp)|Medium|Dynamic Programming
 |491|[Non-decreasing Subsequences](https://leetcode.com/problems/non-decreasing-subsequences/description/)| [C++](./algorithms/cpp/491.cpp)|Medium|Backtracking
 |509|[Fibonacci Number](https://leetcode.com/problems/fibonacci-number/)| [C++](./algorithms/cpp/509.cpp)|Easy|Dynamic Programming
 |543|[Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/)| [C++](./algorithms/cpp/543.cpp)|Easy|Binary Tree
+|567|[Permutation in String](https://leetcode.com/problems/permutation-in-string/description/)| [C++](./algorithms/cpp/567.cpp)|Medium|Hash Table, Two Pointers, String, Sliding Window
 |698|[Partition to K Equal Sum Subsets](https://leetcode.com/problems/partition-to-k-equal-sum-subsets/)| [C++](./algorithms/cpp/698.cpp)|Medium|Backtracking, Dynamic Programming, Bit Manipulation, Bitmask
 |785|[Is Graph Bipartite?](https://leetcode.com/problems/is-graph-bipartite/description/)| [C++](./algorithms/cpp/785.cpp)|Medium|Depth-First Search, Graph
 |787|[Cheapest Flights Within K Stops](https://leetcode.com/problems/cheapest-flights-within-k-stops/description/)| [C++](./algorithms/cpp/787.cpp)|Medium|Dynamic Programming, Graph(Dijkstra)
