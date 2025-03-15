@@ -17,7 +17,7 @@
 
     time O(N)
     space O(N)
-*/
+**/
 class Solution {
 public:
 
@@ -55,7 +55,7 @@ public:
 
     time O(N)
     space O(N)
-*/
+**/
 class Solution {
 public:
 

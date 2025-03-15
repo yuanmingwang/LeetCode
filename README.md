@@ -41,6 +41,8 @@ LeetCode
 |94|[Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/description/)| [C++](./algorithms/cpp/94.cpp)|Easy|Binary Tree
 |104|[Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/description/)| [C++](./algorithms/cpp/104.cpp)|Easy|Binary Tree
 |111|[Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/)| [C++](./algorithms/cpp/111.cpp)|Easy|Binary Tree, Breadth-First Search, Depth-First Search
+|114|[Flatten Binary Tree to Linked List](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/description/)| [C++](./algorithms/cpp/114.cpp)|Medium|Binary Tree
+|116|[Populating Next Right Pointers in Each Node](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/description/)| [C++](./algorithms/cpp/116.cpp)|Medium|Binary Tree
 |131|[Palindrome Partitioning](https://leetcode.com/problems/palindrome-partitioning/description/)| [C++](./algorithms/cpp/131.cpp)|Medium|Backtracking, String
 |136|[Single Number](https://leetcode.com/problems/single-number/description/)| [C++](./algorithms/cpp/136.cpp)|Easy|Array, Hash Table, Bit Manipulation
 |141|[Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/description/)| [C++](./algorithms/cpp/141.cpp)|Easy|Linked List, Two Pointers
@@ -56,6 +58,7 @@ LeetCode
 |217|[Contains Duplicate](https://leetcode.com/problems/contains-duplicate/description/)| [C++](./algorithms/cpp/217.cpp)|Easy|Hash Table, Array
 |219|[Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/description/)| [C++](./algorithms/cpp/219.cpp)|Easy|Array, Hash Table, Sliding Window
 |221|[Maximal Square](https://leetcode.com/problems/maximal-square/description/)| [C++](./algorithms/cpp/221.cpp)|Medium|Dynamic Programming
+|226|[Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/description/)| [C++](./algorithms/cpp/226.cpp)|Easy|Binary Tree
 |234|[Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/description/)| [C++](./algorithms/cpp/234.cpp)|Easy|Linked List, Two Pointers, Stack, Recursion
 |263|[Ugly Number](https://leetcode.com/problems/ugly-number/)| [C++](./algorithms/cpp/263.cpp)|Easy|Math
 |264|[Ugly Number II](https://leetcode.com/problems/ugly-number-ii/)| [C++](./algorithms/cpp/264.cpp)|Medium|Dynamic Programming, Priority Queue
