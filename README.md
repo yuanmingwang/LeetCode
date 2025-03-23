@@ -78,6 +78,7 @@ LeetCode
 |509|[Fibonacci Number](https://leetcode.com/problems/fibonacci-number/)| [C++](./algorithms/cpp/509.cpp)|Easy|Dynamic Programming
 |543|[Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/)| [C++](./algorithms/cpp/543.cpp)|Easy|Binary Tree
 |567|[Permutation in String](https://leetcode.com/problems/permutation-in-string/description/)| [C++](./algorithms/cpp/567.cpp)|Medium|Hash Table, Two Pointers, String, Sliding Window
+|654|[Maximum Binary Tree](https://leetcode.com/problems/maximum-binary-tree/description/)| [C++](./algorithms/cpp/654.cpp)|Medium|Binary Tree
 |698|[Partition to K Equal Sum Subsets](https://leetcode.com/problems/partition-to-k-equal-sum-subsets/)| [C++](./algorithms/cpp/698.cpp)|Medium|Backtracking, Dynamic Programming, Bit Manipulation, Bitmask
 |704|[Binary Search](https://leetcode.com/problems/binary-search/description/)| [C++](./algorithms/cpp/704.cpp)|Easy|Array, Binary Search*
 |785|[Is Graph Bipartite?](https://leetcode.com/problems/is-graph-bipartite/description/)| [C++](./algorithms/cpp/785.cpp)|Medium|Depth-First Search, Graph
