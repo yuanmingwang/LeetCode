@@ -53,14 +53,14 @@ class Solution {
             space O(1)
         */
         int singleNumber(vector<int>& nums) {
-        int res = 0;
-        
-        //// Traverse the array and take the Bitwise XOR of each element.
-        for(auto &num : nums)
-            res = res ^ num;
-        
-        //// The elements with frequency = 2 will result in 0. 
-        //// And then the only element with frequency = 1 will generate the res since 0 ^ x = x.
-        return res;
-    }
+            int res = 0;
+            
+            //// Traverse the array and take the Bitwise XOR of each element.
+            for(auto &num : nums)
+                res = res ^ num;
+            
+            //// The elements with frequency = 2 will result in 0. 
+            //// And then the only element with frequency = 1 will generate the res since 0 ^ x = x.
+            return res;
+        }
 };

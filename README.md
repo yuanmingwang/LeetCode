@@ -35,6 +35,7 @@ LeetCode
 |80|[Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/description/)| [C++](./algorithms/cpp/80.cpp)|Medium|Two Pointers
 |83|[Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/description/)| [C++](./algorithms/cpp/83.cpp)|Easy|Linked List, Two Pointers
 |86|[Partition List](https://leetcode.com/problems/partition-list/)| [C++](./algorithms/cpp/86.cpp)|Medium|Linked List, Two Pointers
+|88|[Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/description/)| [C++](./algorithms/cpp/88.cpp)|Easy|Array, Two Pointers
 |90|[Subsets II](https://leetcode.com/problems/subsets-ii/description/)| [C++](./algorithms/cpp/90.cpp)|Medium|Backtracking
 |92|[Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/description/)| [C++](./algorithms/cpp/92.cpp)|Medium|Linked List*
 |93|[Restore IP Addresses](https://leetcode.com/problems/restore-ip-addresses/description/)| [C++](./algorithms/cpp/93.cpp)|Medium|Backtracking
