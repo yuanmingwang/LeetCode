@@ -74,6 +74,7 @@ LeetCode
 |368|[Largest Divisible Subset](https://leetcode.com/problems/largest-divisible-subset/description/)| [C++](./algorithms/cpp/368.cpp)|Medium|Dynamic Programming
 |392|[Is Subsequence](https://leetcode.com/problems/is-subsequence/description/)| [C++](./algorithms/cpp/392.cpp)|Easy|Two Pointers
 |438|[Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string/description/)| [C++](./algorithms/cpp/438.cpp)|Medium|Hash Table, String, Sliding Window
+|485|[Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/description/)| [C++](./algorithms/cpp/485.cpp)|Easy|Array
 |486|[Predict the Winner](https://leetcode.com/problems/predict-the-winner/description/)| [C++](./algorithms/cpp/486.cpp)|Medium|Dynamic Programming
 |491|[Non-decreasing Subsequences](https://leetcode.com/problems/non-decreasing-subsequences/description/)| [C++](./algorithms/cpp/491.cpp)|Medium|Backtracking
 |509|[Fibonacci Number](https://leetcode.com/problems/fibonacci-number/)| [C++](./algorithms/cpp/509.cpp)|Easy|Dynamic Programming
@@ -89,6 +90,8 @@ LeetCode
 |876|[Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/description/)| [C++](./algorithms/cpp/876.cpp)|Easy|Linked List, Two Pointers
 |877|[Stone Game](https://leetcode.com/problems/stone-game/description/)| [C++](./algorithms/cpp/877.cpp)|Medium|Dynamic Programming
 |886|[Possible Bipartition](https://leetcode.com/problems/possible-bipartition/description/)| [C++](./algorithms/cpp/886.cpp)|Medium|Depth-First Search, Graph
+|1004|[Max Consecutive Ones III](https://leetcode.com/problems/max-consecutive-ones-iii/description/)| [C++](./algorithms/cpp/1004.cpp)|Medium|Array, Sliding Window
+|1446|[Consecutive Characters](https://leetcode.com/problems/consecutive-characters/description/)| [C++](./algorithms/cpp/1446.cpp)|Easy|String
 |2073|[Time Needed to Buy Tickets](https://leetcode.com/problems/time-needed-to-buy-tickets/description/)| [C++](./algorithms/cpp/2073.cpp)|Easy|Array, Simulation
 |2460|[Apply Operations to an Array](https://leetcode.com/problems/apply-operations-to-an-array/description/)| [C++](./algorithms/cpp/2460.cpp)|Easy|Array, Two Pointers, Simulation
 
