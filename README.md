@@ -24,6 +24,7 @@ LeetCode
 |34|[Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/description/)| [C++](./algorithms/cpp/34.cpp)|Medium|Array, Binary Search*
 |39|[Combination Sum](https://leetcode.com/problems/combination-sum/description/)| [C++](./algorithms/cpp/39.cpp)|Medium|Backtracking
 |40|[Combination Sum II](https://leetcode.com/problems/combination-sum-ii/description/)| [C++](./algorithms/cpp/40.cpp)|Medium|Backtracking
+|42|[Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/description/)| [C++](./algorithms/cpp/42.cpp)|Hard|Array, Two Pointers
 |46|[Permutations](https://leetcode.com/problems/permutations/description/)| [C++](./algorithms/cpp/46.cpp)|Medium|Backtracking
 |47|[Permutations II](https://leetcode.com/problems/permutations-ii/description/)| [C++](./algorithms/cpp/47.cpp)|Medium|Backtracking
 |51|[N-Queens](https://leetcode.com/problems/n-queens/)| [C++](./algorithms/cpp/51.cpp)|Hard|Backtracking
@@ -44,6 +45,7 @@ LeetCode
 |111|[Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/)| [C++](./algorithms/cpp/111.cpp)|Easy|Binary Tree, Breadth-First Search, Depth-First Search
 |114|[Flatten Binary Tree to Linked List](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/description/)| [C++](./algorithms/cpp/114.cpp)|Medium|Binary Tree
 |116|[Populating Next Right Pointers in Each Node](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/description/)| [C++](./algorithms/cpp/116.cpp)|Medium|Binary Tree
+|125|[Valid Palindrome](https://leetcode.com/problems/valid-palindrome/description/)| [C++](./algorithms/cpp/125.cpp)|Easy|Two Pointers, String
 |131|[Palindrome Partitioning](https://leetcode.com/problems/palindrome-partitioning/description/)| [C++](./algorithms/cpp/131.cpp)|Medium|Backtracking, String
 |136|[Single Number](https://leetcode.com/problems/single-number/description/)| [C++](./algorithms/cpp/136.cpp)|Easy|Array, Hash Table, Bit Manipulation
 |141|[Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/description/)| [C++](./algorithms/cpp/141.cpp)|Easy|Linked List, Two Pointers
