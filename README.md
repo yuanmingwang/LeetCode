@@ -20,6 +20,7 @@ LeetCode
 |25|[Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/description/)| [C++](./algorithms/cpp/25.cpp)|Hard|Linked List, Recursion
 |26|[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/)| [C++](./algorithms/cpp/26.cpp)|Easy|Array, Two Pointers
 |27|[Remove Element](https://leetcode.com/problems/remove-element/description/)| [C++](./algorithms/cpp/27.cpp)|Easy|Array, Two Pointers
+|28|[Find the Index of the First Occurrence in a String](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/description/)| [C++](./algorithms/cpp/28.cpp)|Easy|Two Pointers, KMP*
 |31|[Next Permutation](https://leetcode.com/problems/next-permutation/description/)| [C++](./algorithms/cpp/31.cpp)|Medium|Two Pointers
 |34|[Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/description/)| [C++](./algorithms/cpp/34.cpp)|Medium|Array, Binary Search*
 |39|[Combination Sum](https://leetcode.com/problems/combination-sum/description/)| [C++](./algorithms/cpp/39.cpp)|Medium|Backtracking
