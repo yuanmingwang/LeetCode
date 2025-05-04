@@ -81,6 +81,7 @@ LeetCode
 |486|[Predict the Winner](https://leetcode.com/problems/predict-the-winner/description/)| [C++](./algorithms/cpp/486.cpp)|Medium|Dynamic Programming
 |491|[Non-decreasing Subsequences](https://leetcode.com/problems/non-decreasing-subsequences/description/)| [C++](./algorithms/cpp/491.cpp)|Medium|Backtracking
 |509|[Fibonacci Number](https://leetcode.com/problems/fibonacci-number/)| [C++](./algorithms/cpp/509.cpp)|Easy|Dynamic Programming
+|540|[Single Element in a Sorted Array](https://leetcode.com/problems/single-element-in-a-sorted-array/description/)| [C++](./algorithms/cpp/540.cpp)|Medium|Array, XOR, Binary Search
 |543|[Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/)| [C++](./algorithms/cpp/543.cpp)|Easy|Binary Tree
 |567|[Permutation in String](https://leetcode.com/problems/permutation-in-string/description/)| [C++](./algorithms/cpp/567.cpp)|Medium|Hash Table, Two Pointers, String, Sliding Window
 |654|[Maximum Binary Tree](https://leetcode.com/problems/maximum-binary-tree/description/)| [C++](./algorithms/cpp/654.cpp)|Medium|Binary Tree
