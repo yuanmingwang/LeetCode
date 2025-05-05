@@ -54,6 +54,7 @@ LeetCode
 |144|[Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/description/)| [C++](./algorithms/cpp/144.cpp)|Easy|Binary Tree
 |160|[Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/description/)| [C++](./algorithms/cpp/160.cpp)|Easy|Linked List, Two Pointers
 |167|[Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/description/)| [C++](./algorithms/cpp/167.cpp)|Medium|Two Pointers
+|187|[Repeated DNA Sequences](https://leetcode.com/problems/repeated-dna-sequences/description/)| [C++](./algorithms/cpp/187.cpp)|Medium|Hash Table, String, Sliding Window, Rabin-Karp
 |198|[House Robber](https://leetcode.com/problems/house-robber/description/)| [C++](./algorithms/cpp/198.cpp)|Medium|Dynamic Programming
 |206|[Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/description/)| [C++](./algorithms/cpp/206.cpp)|Easy|Linked List*, Recursion
 |209|[Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/description/)| [C++](./algorithms/cpp/209.cpp)|Medium|Array, Sliding Window
@@ -91,11 +92,13 @@ LeetCode
 |787|[Cheapest Flights Within K Stops](https://leetcode.com/problems/cheapest-flights-within-k-stops/description/)| [C++](./algorithms/cpp/787.cpp)|Medium|Dynamic Programming, Graph(Dijkstra)
 |792|[Number of Matching Subsequences](https://leetcode.com/problems/number-of-matching-subsequences/description/)| [C++](./algorithms/cpp/792.cpp)|Medium|Binary Search, Hash Table, Two Pointers
 |797|[All Paths From Source to Target](https://leetcode.com/problems/all-paths-from-source-to-target/)| [C++](./algorithms/cpp/797.cpp)|Medium|Depth-First Search, Graph
+|844|[Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/description/)| [C++](./algorithms/cpp/844.cpp)|Easy|Two Pointers, String, Stack
 |876|[Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/description/)| [C++](./algorithms/cpp/876.cpp)|Easy|Linked List, Two Pointers
 |877|[Stone Game](https://leetcode.com/problems/stone-game/description/)| [C++](./algorithms/cpp/877.cpp)|Medium|Dynamic Programming
 |886|[Possible Bipartition](https://leetcode.com/problems/possible-bipartition/description/)| [C++](./algorithms/cpp/886.cpp)|Medium|Depth-First Search, Graph
 |1004|[Max Consecutive Ones III](https://leetcode.com/problems/max-consecutive-ones-iii/description/)| [C++](./algorithms/cpp/1004.cpp)|Medium|Array, Sliding Window
 |1446|[Consecutive Characters](https://leetcode.com/problems/consecutive-characters/description/)| [C++](./algorithms/cpp/1446.cpp)|Easy|String
+|1598|[Crawler Log Folder](https://leetcode.com/problems/crawler-log-folder/description/)| [C++](./algorithms/cpp/1598.cpp)|Easy|Array, String, Stack
 |2073|[Time Needed to Buy Tickets](https://leetcode.com/problems/time-needed-to-buy-tickets/description/)| [C++](./algorithms/cpp/2073.cpp)|Easy|Array, Simulation
 |2460|[Apply Operations to an Array](https://leetcode.com/problems/apply-operations-to-an-array/description/)| [C++](./algorithms/cpp/2460.cpp)|Easy|Array, Two Pointers, Simulation
 
