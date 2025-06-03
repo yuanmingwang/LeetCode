@@ -43,6 +43,7 @@ LeetCode
 |93|[Restore IP Addresses](https://leetcode.com/problems/restore-ip-addresses/description/)| [C++](./algorithms/cpp/93.cpp)|Medium|Backtracking
 |94|[Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/description/)| [C++](./algorithms/cpp/94.cpp)|Easy|Binary Tree
 |104|[Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/description/)| [C++](./algorithms/cpp/104.cpp)|Easy|Binary Tree
+|105|[Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/description/)| [C++](./algorithms/cpp/105.cpp)|Medium|Binary Tree
 |111|[Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/)| [C++](./algorithms/cpp/111.cpp)|Easy|Binary Tree, Breadth-First Search, Depth-First Search
 |114|[Flatten Binary Tree to Linked List](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/description/)| [C++](./algorithms/cpp/114.cpp)|Medium|Binary Tree
 |116|[Populating Next Right Pointers in Each Node](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/description/)| [C++](./algorithms/cpp/116.cpp)|Medium|Binary Tree
