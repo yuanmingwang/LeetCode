@@ -44,6 +44,7 @@ LeetCode
 |94|[Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/description/)| [C++](./algorithms/cpp/94.cpp)|Easy|Binary Tree
 |104|[Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/description/)| [C++](./algorithms/cpp/104.cpp)|Easy|Binary Tree
 |105|[Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/description/)| [C++](./algorithms/cpp/105.cpp)|Medium|Binary Tree
+|106|[Construct Binary Tree from Inorder and Postorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/description/)| [C++](./algorithms/cpp/106.cpp)|Medium|Binary Tree
 |111|[Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/)| [C++](./algorithms/cpp/111.cpp)|Easy|Binary Tree, Breadth-First Search, Depth-First Search
 |114|[Flatten Binary Tree to Linked List](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/description/)| [C++](./algorithms/cpp/114.cpp)|Medium|Binary Tree
 |116|[Populating Next Right Pointers in Each Node](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/description/)| [C++](./algorithms/cpp/116.cpp)|Medium|Binary Tree
@@ -87,6 +88,7 @@ LeetCode
 |540|[Single Element in a Sorted Array](https://leetcode.com/problems/single-element-in-a-sorted-array/description/)| [C++](./algorithms/cpp/540.cpp)|Medium|Array, XOR, Binary Search
 |543|[Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/)| [C++](./algorithms/cpp/543.cpp)|Easy|Binary Tree
 |567|[Permutation in String](https://leetcode.com/problems/permutation-in-string/description/)| [C++](./algorithms/cpp/567.cpp)|Medium|Hash Table, Two Pointers, String, Sliding Window
+|652|[Find Duplicate Subtrees](https://leetcode.com/problems/find-duplicate-subtrees/description/)| [C++](./algorithms/cpp/652.cpp)|Medium|Binary Tree
 |654|[Maximum Binary Tree](https://leetcode.com/problems/maximum-binary-tree/description/)| [C++](./algorithms/cpp/654.cpp)|Medium|Binary Tree
 |698|[Partition to K Equal Sum Subsets](https://leetcode.com/problems/partition-to-k-equal-sum-subsets/)| [C++](./algorithms/cpp/698.cpp)|Medium|Backtracking, Dynamic Programming, Bit Manipulation, Bitmask
 |704|[Binary Search](https://leetcode.com/problems/binary-search/description/)| [C++](./algorithms/cpp/704.cpp)|Easy|Array, Binary Search*
