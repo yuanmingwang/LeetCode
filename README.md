@@ -67,6 +67,7 @@ LeetCode
 |219|[Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/description/)| [C++](./algorithms/cpp/219.cpp)|Easy|Array, Hash Table, Sliding Window
 |221|[Maximal Square](https://leetcode.com/problems/maximal-square/description/)| [C++](./algorithms/cpp/221.cpp)|Medium|Dynamic Programming
 |226|[Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/description/)| [C++](./algorithms/cpp/226.cpp)|Easy|Binary Tree
+|230|[Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/description/)| [C++](./algorithms/cpp/230.cpp)|Medium|Binary Search Tree
 |234|[Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/description/)| [C++](./algorithms/cpp/234.cpp)|Easy|Linked List, Two Pointers, Stack, Recursion
 |263|[Ugly Number](https://leetcode.com/problems/ugly-number/)| [C++](./algorithms/cpp/263.cpp)|Easy|Math
 |264|[Ugly Number II](https://leetcode.com/problems/ugly-number-ii/)| [C++](./algorithms/cpp/264.cpp)|Medium|Dynamic Programming, Priority Queue
