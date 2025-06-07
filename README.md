@@ -87,6 +87,7 @@ LeetCode
 |486|[Predict the Winner](https://leetcode.com/problems/predict-the-winner/description/)| [C++](./algorithms/cpp/486.cpp)|Medium|Dynamic Programming
 |491|[Non-decreasing Subsequences](https://leetcode.com/problems/non-decreasing-subsequences/description/)| [C++](./algorithms/cpp/491.cpp)|Medium|Backtracking
 |509|[Fibonacci Number](https://leetcode.com/problems/fibonacci-number/)| [C++](./algorithms/cpp/509.cpp)|Easy|Dynamic Programming
+|538|[Convert BST to Greater Tree](https://leetcode.com/problems/convert-bst-to-greater-tree/description/)| [C++](./algorithms/cpp/538.cpp)|Medium|Binary Search Tree
 |540|[Single Element in a Sorted Array](https://leetcode.com/problems/single-element-in-a-sorted-array/description/)| [C++](./algorithms/cpp/540.cpp)|Medium|Array, XOR, Binary Search
 |543|[Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/)| [C++](./algorithms/cpp/543.cpp)|Easy|Binary Tree
 |567|[Permutation in String](https://leetcode.com/problems/permutation-in-string/description/)| [C++](./algorithms/cpp/567.cpp)|Medium|Hash Table, Two Pointers, String, Sliding Window
@@ -103,6 +104,7 @@ LeetCode
 |877|[Stone Game](https://leetcode.com/problems/stone-game/description/)| [C++](./algorithms/cpp/877.cpp)|Medium|Dynamic Programming
 |886|[Possible Bipartition](https://leetcode.com/problems/possible-bipartition/description/)| [C++](./algorithms/cpp/886.cpp)|Medium|Depth-First Search, Graph
 |1004|[Max Consecutive Ones III](https://leetcode.com/problems/max-consecutive-ones-iii/description/)| [C++](./algorithms/cpp/1004.cpp)|Medium|Array, Sliding Window
+|1038|[Binary Search Tree to Greater Sum Tree](https://leetcode.com/problems/binary-search-tree-to-greater-sum-tree/description/)| [C++](./algorithms/cpp/1038.cpp)|Medium|Binary Search Tree
 |1446|[Consecutive Characters](https://leetcode.com/problems/consecutive-characters/description/)| [C++](./algorithms/cpp/1446.cpp)|Easy|String
 |1598|[Crawler Log Folder](https://leetcode.com/problems/crawler-log-folder/description/)| [C++](./algorithms/cpp/1598.cpp)|Easy|Array, String, Stack
 |2073|[Time Needed to Buy Tickets](https://leetcode.com/problems/time-needed-to-buy-tickets/description/)| [C++](./algorithms/cpp/2073.cpp)|Easy|Array, Simulation

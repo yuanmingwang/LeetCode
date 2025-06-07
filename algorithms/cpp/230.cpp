@@ -19,7 +19,7 @@ public:
             inorder traverse of a BST gives it's value in an accending order.
 
         time O(N)
-        space O(N)
+        space O(1)
     **/
     
     int res;
