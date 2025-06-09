@@ -42,6 +42,7 @@ LeetCode
 |92|[Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/description/)| [C++](./algorithms/cpp/92.cpp)|Medium|Linked List*
 |93|[Restore IP Addresses](https://leetcode.com/problems/restore-ip-addresses/description/)| [C++](./algorithms/cpp/93.cpp)|Medium|Backtracking
 |94|[Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/description/)| [C++](./algorithms/cpp/94.cpp)|Easy|Binary Tree
+|98|[Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/description/)| [C++](./algorithms/cpp/98.cpp)|Medium|Binary Search Tree
 |104|[Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/description/)| [C++](./algorithms/cpp/104.cpp)|Easy|Binary Tree
 |105|[Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/description/)| [C++](./algorithms/cpp/105.cpp)|Medium|Binary Tree
 |106|[Construct Binary Tree from Inorder and Postorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/description/)| [C++](./algorithms/cpp/106.cpp)|Medium|Binary Tree
@@ -94,6 +95,7 @@ LeetCode
 |652|[Find Duplicate Subtrees](https://leetcode.com/problems/find-duplicate-subtrees/description/)| [C++](./algorithms/cpp/652.cpp)|Medium|Binary Tree
 |654|[Maximum Binary Tree](https://leetcode.com/problems/maximum-binary-tree/description/)| [C++](./algorithms/cpp/654.cpp)|Medium|Binary Tree
 |698|[Partition to K Equal Sum Subsets](https://leetcode.com/problems/partition-to-k-equal-sum-subsets/)| [C++](./algorithms/cpp/698.cpp)|Medium|Backtracking, Dynamic Programming, Bit Manipulation, Bitmask
+|700|[Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree/description/)| [C++](./algorithms/cpp/700.cpp)|Easy|Binary Search Tree
 |704|[Binary Search](https://leetcode.com/problems/binary-search/description/)| [C++](./algorithms/cpp/704.cpp)|Easy|Array, Binary Search*
 |785|[Is Graph Bipartite?](https://leetcode.com/problems/is-graph-bipartite/description/)| [C++](./algorithms/cpp/785.cpp)|Medium|Depth-First Search, Graph
 |787|[Cheapest Flights Within K Stops](https://leetcode.com/problems/cheapest-flights-within-k-stops/description/)| [C++](./algorithms/cpp/787.cpp)|Medium|Dynamic Programming, Graph(Dijkstra)
