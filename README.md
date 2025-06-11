@@ -84,6 +84,7 @@ LeetCode
 |368|[Largest Divisible Subset](https://leetcode.com/problems/largest-divisible-subset/description/)| [C++](./algorithms/cpp/368.cpp)|Medium|Dynamic Programming
 |392|[Is Subsequence](https://leetcode.com/problems/is-subsequence/description/)| [C++](./algorithms/cpp/392.cpp)|Easy|Two Pointers
 |438|[Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string/description/)| [C++](./algorithms/cpp/438.cpp)|Medium|Hash Table, String, Sliding Window
+|450|[Delete Node in a BST](https://leetcode.com/problems/delete-node-in-a-bst/description/)| [C++](./algorithms/cpp/450.cpp)|Medium|Binary Search Tree
 |485|[Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/description/)| [C++](./algorithms/cpp/485.cpp)|Easy|Array
 |486|[Predict the Winner](https://leetcode.com/problems/predict-the-winner/description/)| [C++](./algorithms/cpp/486.cpp)|Medium|Dynamic Programming
 |491|[Non-decreasing Subsequences](https://leetcode.com/problems/non-decreasing-subsequences/description/)| [C++](./algorithms/cpp/491.cpp)|Medium|Backtracking
