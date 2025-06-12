@@ -97,6 +97,7 @@ LeetCode
 |654|[Maximum Binary Tree](https://leetcode.com/problems/maximum-binary-tree/description/)| [C++](./algorithms/cpp/654.cpp)|Medium|Binary Tree
 |698|[Partition to K Equal Sum Subsets](https://leetcode.com/problems/partition-to-k-equal-sum-subsets/)| [C++](./algorithms/cpp/698.cpp)|Medium|Backtracking, Dynamic Programming, Bit Manipulation, Bitmask
 |700|[Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree/description/)| [C++](./algorithms/cpp/700.cpp)|Easy|Binary Search Tree
+|701|[Insert into a Binary Search Tree](https://leetcode.com/problems/insert-into-a-binary-search-tree/description/)| [C++](./algorithms/cpp/701.cpp)|Medium|Binary Search Tree
 |704|[Binary Search](https://leetcode.com/problems/binary-search/description/)| [C++](./algorithms/cpp/704.cpp)|Easy|Array, Binary Search*
 |785|[Is Graph Bipartite?](https://leetcode.com/problems/is-graph-bipartite/description/)| [C++](./algorithms/cpp/785.cpp)|Medium|Depth-First Search, Graph
 |787|[Cheapest Flights Within K Stops](https://leetcode.com/problems/cheapest-flights-within-k-stops/description/)| [C++](./algorithms/cpp/787.cpp)|Medium|Dynamic Programming, Graph(Dijkstra)
