@@ -42,6 +42,7 @@ LeetCode
 |92|[Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/description/)| [C++](./algorithms/cpp/92.cpp)|Medium|Linked List*
 |93|[Restore IP Addresses](https://leetcode.com/problems/restore-ip-addresses/description/)| [C++](./algorithms/cpp/93.cpp)|Medium|Backtracking
 |94|[Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/description/)| [C++](./algorithms/cpp/94.cpp)|Easy|Binary Tree
+|96|[Unique Binary Search Trees](https://leetcode.com/problems/unique-binary-search-trees/description/)| [C++](./algorithms/cpp/96.cpp)|Medium|Binary Search Tree, Dynamic Programming
 |98|[Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/description/)| [C++](./algorithms/cpp/98.cpp)|Medium|Binary Search Tree
 |104|[Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/description/)| [C++](./algorithms/cpp/104.cpp)|Easy|Binary Tree
 |105|[Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/description/)| [C++](./algorithms/cpp/105.cpp)|Medium|Binary Tree
