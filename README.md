@@ -78,6 +78,7 @@ LeetCode
 |283|[Move Zeroes](https://leetcode.com/problems/move-zeroes/description/)| [C++](./algorithms/cpp/283.cpp)|Easy|Array, Two Pointers
 |297|[Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/description/)| [C++](./algorithms/cpp/297.cpp)|Hard|Binary Tree, String
 |303|[Range Sum Query - Immutable](https://leetcode.com/problems/range-sum-query-immutable/description/)| [C++](./algorithms/cpp/303.cpp)|Easy|Array, Prefix Sum
+|304|[Range Sum Query 2D - Immutable](https://leetcode.com/problems/range-sum-query-2d-immutable/description/)| [C++](./algorithms/cpp/304.cpp)|Medium|Array, Prefix Sum
 |312|[Burst Balloons](https://leetcode.com/problems/burst-balloons/description/)| [C++](./algorithms/cpp/312.cpp)|Hard|Dynamic Programming
 |313|[Super Ugly Number](https://leetcode.com/problems/ugly-number-ii/description/)| [C++](./algorithms/cpp/313.cpp)|Medium|Dynamic Programming, Priority Queue
 |322|[Coin Change](https://leetcode.com/problems/coin-change/)| [C++](./algorithms/cpp/322.cpp)|Medium|Dynamic Programming
