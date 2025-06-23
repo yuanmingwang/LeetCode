@@ -10,7 +10,7 @@
  */
 class Solution {
     public:
-        /** 
+        /** 19. Remove Nth Node From End of List
             Linked List, Two Pointers
             Slow and Fast Pointers, One pass
     

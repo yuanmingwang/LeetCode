@@ -1,6 +1,6 @@
 class Solution {
 public:
-    /** 
+    /** 31. Next Permutation
         Two Pointers
 
         algorithm: 

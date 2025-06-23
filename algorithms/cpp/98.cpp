@@ -11,7 +11,7 @@
  */
 class Solution {
 public:
-    /** 
+    /** 98. Validate Binary Search Tree
         Binary Search Tree
         Traverse
 
@@ -48,7 +48,7 @@ public:
 /** 2.---------------------------------------------------------------------------------------------------------------------------------------- **/
 class Solution {
 public:
-    /** 
+    /** 98. Validate Binary Search Tree
         Binary Search Tree
         Divide and conquer
 

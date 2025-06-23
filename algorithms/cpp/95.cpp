@@ -10,8 +10,8 @@
  * };
  */
 class Solution {
-public:
-    /** 
+public: 
+    /** 95. Unique Binary Search Trees II
         BST
         divide and conquer
         This problem is a variant of the problem of 96. Unique Binary Search Trees

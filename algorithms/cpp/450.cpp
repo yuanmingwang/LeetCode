@@ -11,7 +11,7 @@
  */
 class Solution {
 public:
-    /** 
+    /** 450. Delete Node in a BST
         Binary Search Tree
         Binary search, recursion
 

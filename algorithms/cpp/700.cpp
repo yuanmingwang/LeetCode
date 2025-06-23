@@ -11,7 +11,7 @@
  */
 class Solution {
 public:
-    /** 
+    /** 700. Search in a Binary Search Tree
         Binary Search Tree
         Recursion
 
@@ -45,7 +45,7 @@ public:
 /** 2.---------------------------------------------------------------------------------------------------------------------------------------- **/
 class Solution {
 public:
-    /** 
+    /** 700. Search in a Binary Search Tree
         Binary Search Tree
         Iteration
 

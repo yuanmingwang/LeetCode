@@ -1,6 +1,6 @@
 class NumArray {
 public:
-    /** 
+    /** 303. Range Sum Query - Immutable
         Array, Prefix Sum
 
         Intuition: 

@@ -1,6 +1,6 @@
 class Solution {
     public:
-        /** 
+        /** 27. Remove Element
             Array, Two Pointers
             slow and fast pointer:
     

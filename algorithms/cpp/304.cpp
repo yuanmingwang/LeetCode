@@ -1,6 +1,6 @@
 class NumMatrix {
 public:
-    /** 
+    /** 304. Range Sum Query 2D - Immutable
         Array, Prefix Sum
 
         Intuition: 

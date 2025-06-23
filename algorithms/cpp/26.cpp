@@ -1,6 +1,6 @@
 class Solution {
 public:
-    /** 
+    /** 26. Remove Duplicates from Sorted Array
         Two Pointers, slow & fast pointer
 
         time O(N)

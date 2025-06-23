@@ -1,6 +1,6 @@
 class Solution {
 public:
-    /** 
+    /** 15. 3Sum
         Two Pointers
 
         time O(N^2)

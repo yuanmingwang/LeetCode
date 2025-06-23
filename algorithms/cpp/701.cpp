@@ -11,7 +11,7 @@
  */
 class Solution {
 public:
-    /** 
+    /** 701. Insert into a Binary Search Tree
         Binary Search Tree
         recursion, divide and conquer
 
@@ -49,7 +49,7 @@ public:
 /** 2.---------------------------------------------------------------------------------------------------------------------------------------- **/
 class Solution {
 public:
-    /** 
+    /** 701. Insert into a Binary Search Tree
         Binary Search Tree
         iteration
 

@@ -10,7 +10,7 @@
  */
 class Solution {
 public:
-    /** 
+    /** 23. Merge k Sorted Lists
         Linked List, Heap (Priority Queue)
 
         time O(logK * N), N = # elements in one list, K = # lists

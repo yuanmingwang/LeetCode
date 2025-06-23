@@ -1,6 +1,6 @@
 class Solution {
     public:
-        /** 
+        /** 20. Valid Parentheses
             String, Stack
             This is a classic problem involving bracket. Such problems can generally be solved using a stack. 
             The approach is: 

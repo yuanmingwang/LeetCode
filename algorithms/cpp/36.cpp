@@ -1,7 +1,6 @@
 class Solution {
 public:
-    //// 36. Valid Sudoku
-    /** 
+    /** 36. Valid Sudoku   
         Hash Table
 
         Intuition:
@@ -54,8 +53,7 @@ public:
 /** 2.---------------------------------------------------------------------------------------------------------------------------------------- **/
 class Solution {
 public:
-    //// 36. Valid Sudoku
-    /** 
+    /** 36. Valid Sudoku
         Bitmask
 
         Intuition:

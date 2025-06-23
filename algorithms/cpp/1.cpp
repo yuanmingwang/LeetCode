@@ -1,6 +1,6 @@
 class Solution {
 public:
-    /** 
+    /** 1. Two Sum
         Hash Table
 
         time O(N)

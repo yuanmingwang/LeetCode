@@ -1,6 +1,6 @@
 class Solution {
 public:
-    /** 
+    /** 96. Unique Binary Search Trees
         Binary Search Tree, Dynamic Programming
         dp iteration, buttom up
 

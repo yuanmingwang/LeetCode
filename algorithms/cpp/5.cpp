@@ -1,6 +1,6 @@
 class Solution {
     public:
-        /** 
+        /** 5. Longest Palindromic Substring
             Two Pointers, String
 
             Approach : Expand Around Center

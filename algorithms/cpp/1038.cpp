@@ -11,7 +11,7 @@
  */
 class Solution {
 public:
-    /** 
+    /** 1038. Binary Search Tree to Greater Sum Tree
         Binary Search Tree
         Traverse
         Same as: 538. Convert BST to Greater Tree
