@@ -23,6 +23,7 @@ LeetCode
 |28|[Find the Index of the First Occurrence in a String](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/description/)| [C++](./algorithms/cpp/28.cpp)|Easy|Two Pointers, KMP*
 |31|[Next Permutation](https://leetcode.com/problems/next-permutation/description/)| [C++](./algorithms/cpp/31.cpp)|Medium|Two Pointers
 |34|[Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/description/)| [C++](./algorithms/cpp/34.cpp)|Medium|Array, Binary Search*
+|36|[Valid Sudoku](https://leetcode.com/problems/valid-sudoku/description/)| [C++](./algorithms/cpp/36.cpp)|Medium|Hash Table, Bitmask
 |39|[Combination Sum](https://leetcode.com/problems/combination-sum/description/)| [C++](./algorithms/cpp/39.cpp)|Medium|Backtracking
 |40|[Combination Sum II](https://leetcode.com/problems/combination-sum-ii/description/)| [C++](./algorithms/cpp/40.cpp)|Medium|Backtracking
 |42|[Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/description/)| [C++](./algorithms/cpp/42.cpp)|Hard|Array, Two Pointers
