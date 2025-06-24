@@ -33,7 +33,7 @@ public:
             for(int col = 0; col < n; ++col)
             {
                 char val = board[row][col];
-                //// find a seperator, skip
+                //// find a separator, skip
                 if(val == separator)
                     continue;
                 //// check if the val is already in same row / col / block
@@ -86,7 +86,7 @@ public:
         {
             for(int col = 0; col < n; ++col)
             {
-                //// find a seperator, skip
+                //// find a separator, skip
                 if(board[row][col] == separator)
                     continue;
                 //// check if the val is already in same row / col / block
@@ -106,7 +106,8 @@ public:
         return true;
     }
 
-    /*  Function: Check if the k-th bit of the integer x is 1
+    /*  
+        Function: Check if the k-th bit of the integer x is 1
         Operation process:
             x >> k: Right shift x's binary representation by k bits, moving the target bit to the least significant bit
             & 1: Use bitwise AND operation to extract the least significant bit
