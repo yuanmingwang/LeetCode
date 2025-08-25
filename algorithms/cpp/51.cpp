@@ -1,7 +1,6 @@
 class Solution {
 public:
-    /** 
-        51. N-Queens
+    /** 51. N-Queens
         Backtracking
         check 46. Permutations for backtracking framework
 

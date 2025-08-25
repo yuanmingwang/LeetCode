@@ -1,10 +1,10 @@
 class Solution {
 public:
-    /** 
+    /** 46. Permutations
         backtracking
         Permutations (no repetition, no multiple-choice)
 
-        time O(N!)
+        time O(N! * N)
         space O(N)
     */
     vector<vector<int>> permute(vector<int>& nums) {
