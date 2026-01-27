@@ -32,6 +32,7 @@ LeetCode
 |47|[Permutations II](https://leetcode.com/problems/permutations-ii/description/)| [C++](./algorithms/cpp/47.cpp)|Medium|Backtracking
 |51|[N-Queens](https://leetcode.com/problems/n-queens/)| [C++](./algorithms/cpp/51.cpp)|Hard|Backtracking
 |52|[N-Queens II](https://leetcode.com/problems/n-queens-ii/description/)| [C++](./algorithms/cpp/52.cpp)|Hard|Backtracking
+|70|[Climbing Stairs](https://leetcode.com/problems/climbing-stairs/description/)| [C++](./algorithms/cpp/70.cpp)|Easy|Dynamic Programming
 |75|[Sort Colors](https://leetcode.com/problems/sort-colors/description/)| [C++](./algorithms/cpp/75.cpp)|Medium|Two Pointers
 |76|[Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/description/)| [C++](./algorithms/cpp/76.cpp)|Hard|Hash Table, String, Sliding Window*
 |77|[Combinations](https://leetcode.com/problems/combinations/description/)| [C++](./algorithms/cpp/77.cpp)|Medium|Backtracking
