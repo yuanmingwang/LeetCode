@@ -9,6 +9,7 @@ LeetCode
 |5|[Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/description/)| [C++](./algorithms/cpp/5.cpp)|Medium|Two Pointers, String
 |9|[Palindrome Number](https://leetcode.com/problems/palindrome-number/description/)| [C++](./algorithms/cpp/9.cpp)|Easy|Two Pointers
 |11|[Container With Most Water](https://leetcode.com/problems/container-with-most-water/description/)| [C++](./algorithms/cpp/11.cpp)|Medium|Two Pointers, Greedy
+|13|[Roman to Integer](https://leetcode.com/problems/roman-to-integer/description/)| [C++](./algorithms/cpp/13.cpp)|Easy|Hash Table, String
 |15|[3Sum](https://leetcode.com/problems/3sum/)| [C++](./algorithms/cpp/15.cpp)|Medium|Two Pointers
 |16|[3Sum Closest](https://leetcode.com/problems/3sum-closest/description/)| [C++](./algorithms/cpp/16.cpp)|Medium|Two Pointers
 |17|[Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/description/)| [C++](./algorithms/cpp/17.cpp)|Medium|Backtracking
