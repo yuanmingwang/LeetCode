@@ -3,7 +3,7 @@ LeetCode
 
 | # | Title | Solution | Difficulty | Related Topics |
 |---| ----- | -------- | ---------- | -------------- |
-|1|[Two Sum](https://leetcode.com/problems/two-sum/description/)| [C++](./algorithms/cpp/1.cpp)|Easy|Hash Table
+|1|[Two Sum](https://leetcode.com/problems/two-sum/description/)| [C++](./algorithms/cpp/1.cpp), [Python3](./algorithms/python3/1.py)|Easy|Hash Table
 |2|[Add Two Numbers](https://leetcode.com/problems/add-two-numbers/description/)| [C++](./algorithms/cpp/2.cpp)|Medium|Linked List, Two Pointers
 |3|[Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/description/)| [C++](./algorithms/cpp/3.cpp)|Medium|Hash Table, String, Sliding Window
 |5|[Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/description/)| [C++](./algorithms/cpp/5.cpp)|Medium|Two Pointers, String
@@ -16,7 +16,7 @@ LeetCode
 |18|[4Sum](https://leetcode.com/problems/4sum/description/)| [C++](./algorithms/cpp/18.cpp)|Medium|Two Pointers
 |19|[Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/description/)| [C++](./algorithms/cpp/19.cpp)|Medium|Linked List, Two Pointers
 |20|[Valid Parentheses](https://leetcode.com/problems/valid-parentheses/description/)| [C++](./algorithms/cpp/20.cpp)|Easy|String, Stack
-|21|[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)| [C++](./algorithms/cpp/21.cpp)|Easy|Linked List, Two Pointers
+|21|[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)| [C++](./algorithms/cpp/21.cpp), [Python3](./algorithms/python3/21.py)|Easy|Linked List, Two Pointers
 |23|[Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/)| [C++](./algorithms/cpp/23.cpp)|Hard|Linked List, Heap (Priority Queue)
 |25|[Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/description/)| [C++](./algorithms/cpp/25.cpp)|Hard|Linked List, Recursion
 |26|[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/)| [C++](./algorithms/cpp/26.cpp)|Easy|Array, Two Pointers
@@ -127,4 +127,9 @@ LeetCode
 ||[]()| [C++](./algorithms/cpp/.cpp)|Easy|
 ||[]()| [C++](./algorithms/cpp/.cpp)|Medium|
 ||[]()| [C++](./algorithms/cpp/.cpp)|Hard|
+
+, [Python3](./algorithms/python3/.py)
+||[]()| [Python3](./algorithms/python3/.py)|Easy|
+||[]()| [Python3](./algorithms/python3/.py)|Medium|
+||[]()| [Python3](./algorithms/python3/.py)|Hard|
 -->
