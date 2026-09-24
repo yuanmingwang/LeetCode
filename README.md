@@ -14,10 +14,10 @@ LeetCode
 |16|[3Sum Closest](https://leetcode.com/problems/3sum-closest/description/)| [C++](./algorithms/cpp/16.cpp)|Medium|Two Pointers
 |17|[Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/description/)| [C++](./algorithms/cpp/17.cpp)|Medium|Backtracking
 |18|[4Sum](https://leetcode.com/problems/4sum/description/)| [C++](./algorithms/cpp/18.cpp)|Medium|Two Pointers
-|19|[Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/description/)| [C++](./algorithms/cpp/19.cpp)|Medium|Linked List, Two Pointers
+|19|[Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/description/)| [C++](./algorithms/cpp/19.cpp), [Python3](./algorithms/python3/19.py)|Medium|Linked List, Two Pointers
 |20|[Valid Parentheses](https://leetcode.com/problems/valid-parentheses/description/)| [C++](./algorithms/cpp/20.cpp)|Easy|String, Stack
 |21|[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)| [C++](./algorithms/cpp/21.cpp), [Python3](./algorithms/python3/21.py)|Easy|Linked List, Two Pointers
-|23|[Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/)| [C++](./algorithms/cpp/23.cpp)|Hard|Linked List, Heap (Priority Queue)
+|23|[Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/)| [C++](./algorithms/cpp/23.cpp), [Python3](./algorithms/python3/23.py)|Hard|Linked List, Heap (Priority Queue)
 |25|[Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/description/)| [C++](./algorithms/cpp/25.cpp)|Hard|Linked List, Recursion
 |26|[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/)| [C++](./algorithms/cpp/26.cpp)|Easy|Array, Two Pointers
 |27|[Remove Element](https://leetcode.com/problems/remove-element/description/)| [C++](./algorithms/cpp/27.cpp)|Easy|Array, Two Pointers
@@ -41,7 +41,7 @@ LeetCode
 |79|[Word Search](https://leetcode.com/problems/word-search/description/)| [C++](./algorithms/cpp/79.cpp)|Medium|Depth-First Search, Backtracking
 |80|[Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/description/)| [C++](./algorithms/cpp/80.cpp)|Medium|Two Pointers
 |83|[Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/description/)| [C++](./algorithms/cpp/83.cpp)|Easy|Linked List, Two Pointers
-|86|[Partition List](https://leetcode.com/problems/partition-list/)| [C++](./algorithms/cpp/86.cpp)|Medium|Linked List, Two Pointers
+|86|[Partition List](https://leetcode.com/problems/partition-list/)| [C++](./algorithms/cpp/86.cpp), [Python3](./algorithms/python3/86.py)|Medium|Linked List, Two Pointers
 |88|[Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/description/)| [C++](./algorithms/cpp/88.cpp)|Easy|Array, Two Pointers
 |90|[Subsets II](https://leetcode.com/problems/subsets-ii/description/)| [C++](./algorithms/cpp/90.cpp)|Medium|Backtracking
 |92|[Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/description/)| [C++](./algorithms/cpp/92.cpp)|Medium|Linked List*
@@ -113,7 +113,7 @@ LeetCode
 |792|[Number of Matching Subsequences](https://leetcode.com/problems/number-of-matching-subsequences/description/)| [C++](./algorithms/cpp/792.cpp)|Medium|Binary Search, Hash Table, Two Pointers
 |797|[All Paths From Source to Target](https://leetcode.com/problems/all-paths-from-source-to-target/)| [C++](./algorithms/cpp/797.cpp)|Medium|Depth-First Search, Graph
 |844|[Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/description/)| [C++](./algorithms/cpp/844.cpp)|Easy|Two Pointers, String, Stack
-|876|[Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/description/)| [C++](./algorithms/cpp/876.cpp)|Easy|Linked List, Two Pointers
+|876|[Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/description/)| [C++](./algorithms/cpp/876.cpp), [Python3](./algorithms/python3/876.py)|Easy|Linked List, Two Pointers
 |877|[Stone Game](https://leetcode.com/problems/stone-game/description/)| [C++](./algorithms/cpp/877.cpp)|Medium|Dynamic Programming
 |886|[Possible Bipartition](https://leetcode.com/problems/possible-bipartition/description/)| [C++](./algorithms/cpp/886.cpp)|Medium|Depth-First Search, Graph
 |1004|[Max Consecutive Ones III](https://leetcode.com/problems/max-consecutive-ones-iii/description/)| [C++](./algorithms/cpp/1004.cpp)|Medium|Array, Sliding Window
