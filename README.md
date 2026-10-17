@@ -20,7 +20,7 @@ LeetCode
 |23|[Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/)| [C++](./algorithms/cpp/23.cpp), [Python3](./algorithms/python3/23.py)|Hard|Linked List, Heap (Priority Queue)
 |25|[Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/description/)| [C++](./algorithms/cpp/25.cpp)|Hard|Linked List, Recursion
 |26|[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/)| [C++](./algorithms/cpp/26.cpp), [Python3](./algorithms/python3/26.py)|Easy|Array, Two Pointers
-|27|[Remove Element](https://leetcode.com/problems/remove-element/description/)| [C++](./algorithms/cpp/27.cpp)|Easy|Array, Two Pointers
+|27|[Remove Element](https://leetcode.com/problems/remove-element/description/)| [C++](./algorithms/cpp/27.cpp), [Python3](./algorithms/python3/27.py)|Easy|Array, Two Pointers
 |28|[Find the Index of the First Occurrence in a String](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/description/)| [C++](./algorithms/cpp/28.cpp)|Easy|Two Pointers, KMP*
 |31|[Next Permutation](https://leetcode.com/problems/next-permutation/description/)| [C++](./algorithms/cpp/31.cpp)|Medium|Two Pointers
 |34|[Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/description/)| [C++](./algorithms/cpp/34.cpp)|Medium|Array, Binary Search*
@@ -40,7 +40,7 @@ LeetCode
 |78|[Subsets](https://leetcode.com/problems/subsets/description/)| [C++](./algorithms/cpp/78.cpp)|Medium|Backtracking
 |79|[Word Search](https://leetcode.com/problems/word-search/description/)| [C++](./algorithms/cpp/79.cpp)|Medium|Depth-First Search, Backtracking
 |80|[Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/description/)| [C++](./algorithms/cpp/80.cpp)|Medium|Two Pointers
-|83|[Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/description/)| [C++](./algorithms/cpp/83.cpp)|Easy|Linked List, Two Pointers
+|83|[Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/description/)| [C++](./algorithms/cpp/83.cpp), [Python3](./algorithms/python3/83.py)|Easy|Linked List, Two Pointers
 |86|[Partition List](https://leetcode.com/problems/partition-list/)| [C++](./algorithms/cpp/86.cpp), [Python3](./algorithms/python3/86.py)|Medium|Linked List, Two Pointers
 |88|[Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/description/)| [C++](./algorithms/cpp/88.cpp)|Easy|Array, Two Pointers
 |90|[Subsets II](https://leetcode.com/problems/subsets-ii/description/)| [C++](./algorithms/cpp/90.cpp)|Medium|Backtracking
@@ -64,7 +64,7 @@ LeetCode
 |144|[Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/description/)| [C++](./algorithms/cpp/144.cpp)|Easy|Binary Tree
 |151|[Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/description/)| [C++](./algorithms/cpp/151.cpp)|Medium|Two Pointers, String
 |160|[Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/description/)| [C++](./algorithms/cpp/160.cpp), [Python3](./algorithms/python3/160.py)|Easy|Linked List, Two Pointers
-|167|[Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/description/)| [C++](./algorithms/cpp/167.cpp)|Medium|Two Pointers
+|167|[Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/description/)| [C++](./algorithms/cpp/167.cpp), [Python3](./algorithms/python3/167.py)|Medium|Two Pointers
 |187|[Repeated DNA Sequences](https://leetcode.com/problems/repeated-dna-sequences/description/)| [C++](./algorithms/cpp/187.cpp)|Medium|Hash Table, String, Sliding Window, Rabin-Karp
 |198|[House Robber](https://leetcode.com/problems/house-robber/description/)| [C++](./algorithms/cpp/198.cpp)|Medium|Dynamic Programming
 |206|[Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/description/)| [C++](./algorithms/cpp/206.cpp)|Easy|Linked List*, Recursion
@@ -80,7 +80,7 @@ LeetCode
 |263|[Ugly Number](https://leetcode.com/problems/ugly-number/)| [C++](./algorithms/cpp/263.cpp)|Easy|Math
 |264|[Ugly Number II](https://leetcode.com/problems/ugly-number-ii/)| [C++](./algorithms/cpp/264.cpp)|Medium|Dynamic Programming, Priority Queue
 |279|[Perfect Squares](https://leetcode.com/problems/perfect-squares/description/)| [C++](./algorithms/cpp/279.cpp)|Medium|Dynamic Programming
-|283|[Move Zeroes](https://leetcode.com/problems/move-zeroes/description/)| [C++](./algorithms/cpp/283.cpp)|Easy|Array, Two Pointers
+|283|[Move Zeroes](https://leetcode.com/problems/move-zeroes/description/)| [C++](./algorithms/cpp/283.cpp), [Python3](./algorithms/python3/283.py)|Easy|Array, Two Pointers
 |297|[Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/description/)| [C++](./algorithms/cpp/297.cpp)|Hard|Binary Tree, String
 |303|[Range Sum Query - Immutable](https://leetcode.com/problems/range-sum-query-immutable/description/)| [C++](./algorithms/cpp/303.cpp)|Easy|Array, Prefix Sum
 |304|[Range Sum Query 2D - Immutable](https://leetcode.com/problems/range-sum-query-2d-immutable/description/)| [C++](./algorithms/cpp/304.cpp)|Medium|Array, Prefix Sum
@@ -89,7 +89,7 @@ LeetCode
 |322|[Coin Change](https://leetcode.com/problems/coin-change/)| [C++](./algorithms/cpp/322.cpp)|Medium|Dynamic Programming
 |337|[House Robber III](https://leetcode.com/problems/house-robber-iii/description/)| [C++](./algorithms/cpp/337.cpp)|Medium|Dynamic Programming, Depth-First Search Binary Tree
 |343|[Integer Break](https://leetcode.com/problems/integer-break/description/)| [C++](./algorithms/cpp/343.cpp)|Medium|Dynamic Programming
-|344|[Reverse String](https://leetcode.com/problems/reverse-string/description/)| [C++](./algorithms/cpp/344.cpp)|Easy|Two Pointers, String
+|344|[Reverse String](https://leetcode.com/problems/reverse-string/description/)| [C++](./algorithms/cpp/344.cpp), [Python3](./algorithms/python3/344.py)|Easy|Two Pointers, String
 |368|[Largest Divisible Subset](https://leetcode.com/problems/largest-divisible-subset/description/)| [C++](./algorithms/cpp/368.cpp)|Medium|Dynamic Programming
 |392|[Is Subsequence](https://leetcode.com/problems/is-subsequence/description/)| [C++](./algorithms/cpp/392.cpp)|Easy|Two Pointers
 |438|[Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string/description/)| [C++](./algorithms/cpp/438.cpp)|Medium|Hash Table, String, Sliding Window
