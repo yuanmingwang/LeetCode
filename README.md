@@ -97,6 +97,8 @@ LeetCode
 |485|[Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/description/)| [C++](./algorithms/cpp/485.cpp)|Easy|Array
 |486|[Predict the Winner](https://leetcode.com/problems/predict-the-winner/description/)| [C++](./algorithms/cpp/486.cpp)|Medium|Dynamic Programming
 |491|[Non-decreasing Subsequences](https://leetcode.com/problems/non-decreasing-subsequences/description/)| [C++](./algorithms/cpp/491.cpp)|Medium|Backtracking
+|496|[Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/description/)| [Python3](./algorithms/python3/496.py)|Easy|Monotonic Stack
+|503|[Next Greater Element II](https://leetcode.com/problems/next-greater-element-ii/description/)| [Python3](./algorithms/python3/503.py)|Medium|Monotonic Stack
 |509|[Fibonacci Number](https://leetcode.com/problems/fibonacci-number/)| [C++](./algorithms/cpp/509.cpp)|Easy|Dynamic Programming
 |538|[Convert BST to Greater Tree](https://leetcode.com/problems/convert-bst-to-greater-tree/description/)| [C++](./algorithms/cpp/538.cpp)|Medium|Binary Search Tree
 |540|[Single Element in a Sorted Array](https://leetcode.com/problems/single-element-in-a-sorted-array/description/)| [C++](./algorithms/cpp/540.cpp)|Medium|Array, XOR, Binary Search
@@ -108,6 +110,7 @@ LeetCode
 |700|[Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree/description/)| [C++](./algorithms/cpp/700.cpp)|Easy|Binary Search Tree
 |701|[Insert into a Binary Search Tree](https://leetcode.com/problems/insert-into-a-binary-search-tree/description/)| [C++](./algorithms/cpp/701.cpp)|Medium|Binary Search Tree
 |704|[Binary Search](https://leetcode.com/problems/binary-search/description/)| [C++](./algorithms/cpp/704.cpp)|Easy|Array, Binary Search*
+|739|[Daily Temperatures](https://leetcode.com/problems/daily-temperatures/description/)| [Python3](./algorithms/python3/739.py)|Medium|Monotonic Stack
 |785|[Is Graph Bipartite?](https://leetcode.com/problems/is-graph-bipartite/description/)| [C++](./algorithms/cpp/785.cpp)|Medium|Depth-First Search, Graph
 |787|[Cheapest Flights Within K Stops](https://leetcode.com/problems/cheapest-flights-within-k-stops/description/)| [C++](./algorithms/cpp/787.cpp)|Medium|Dynamic Programming, Graph(Dijkstra)
 |792|[Number of Matching Subsequences](https://leetcode.com/problems/number-of-matching-subsequences/description/)| [C++](./algorithms/cpp/792.cpp)|Medium|Binary Search, Hash Table, Two Pointers
@@ -116,6 +119,7 @@ LeetCode
 |876|[Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/description/)| [C++](./algorithms/cpp/876.cpp), [Python3](./algorithms/python3/876.py)|Easy|Linked List, Two Pointers
 |877|[Stone Game](https://leetcode.com/problems/stone-game/description/)| [C++](./algorithms/cpp/877.cpp)|Medium|Dynamic Programming
 |886|[Possible Bipartition](https://leetcode.com/problems/possible-bipartition/description/)| [C++](./algorithms/cpp/886.cpp)|Medium|Depth-First Search, Graph
+|901|[Online Stock Span](https://leetcode.com/problems/online-stock-span/)| [Python3](./algorithms/python3/901.py)|Medium|Monotonic Stack
 |1004|[Max Consecutive Ones III](https://leetcode.com/problems/max-consecutive-ones-iii/description/)| [C++](./algorithms/cpp/1004.cpp)|Medium|Array, Sliding Window
 |1038|[Binary Search Tree to Greater Sum Tree](https://leetcode.com/problems/binary-search-tree-to-greater-sum-tree/description/)| [C++](./algorithms/cpp/1038.cpp)|Medium|Binary Search Tree
 |1446|[Consecutive Characters](https://leetcode.com/problems/consecutive-characters/description/)| [C++](./algorithms/cpp/1446.cpp)|Easy|String
